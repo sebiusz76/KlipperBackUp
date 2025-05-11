@@ -1,0 +1,45 @@
+[server]
+host: 0.0.0.0
+port: 7125
+klippy_uds_address: /home/sebiusz/printer_data/comms/klippy.sock
+
+[authorization]
+trusted_clients:
+    192.168.0.0/16
+cors_domains:
+    *.lan
+    *.local
+    *://localhost
+    *://localhost:*
+    *://my.mainsail.xyz
+    *://app.fluidd.xyz
+    
+[octoprint_compat]
+
+[history]
+
+[update_manager]
+channel: dev
+refresh_interval: 168
+
+[update_manager mainsail]
+path: /home/sebiusz/mainsail
+repo: mainsail-crew/mainsail
+channel: stable
+type: web
+
+[update_manager mainsail-config]
+managed_services: klipper
+origin: https://github.com/mainsail-crew/mainsail-config.git
+path: /home/sebiusz/mainsail-config
+primary_branch: master
+type: git_repo
+
+[update_manager KlipperScreen]
+install_script: /home/sebiusz/KlipperScreen/scripts/KlipperScreen-install.sh
+requirements: /home/sebiusz/KlipperScreen/scripts/KlipperScreen-requirements.txt
+env: /home/sebiusz/.KlipperScreen-env/bin/python
+managed_services: KlipperScreen
+origin: https://github.com/KlipperScreen/KlipperScreen.git
+path: /home/sebiusz/KlipperScreen
+type: git_repo
