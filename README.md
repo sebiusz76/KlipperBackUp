@@ -1,4 +1,4 @@
-# Klipper-Backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+# Voron 2.4 R2 💾 
 
-This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
+My configuration:
+- Octopus Pro 1.0.1
