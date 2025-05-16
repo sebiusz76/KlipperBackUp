@@ -1,5 +1,5 @@
 # Voron 2.4 R2 - Klipper BackUp 💾
-## My Voron configuration
+## My Voron 2.4 R2 350x350 Configuration
 
 - Octopus Pro V1.0.1
 - TMC2209
