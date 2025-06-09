@@ -6,7 +6,7 @@
 - BigTreeTech EBB SB2209 USB V1.0
 - BigTreeTech HDMI7 V1.2
 - BigTreeTech Knomi V2.0
-- Cartographer Probe V3 with ADXL345 USB
+- IDM Scanner V3.2 USB
 - StepperOnline Nema 17 17HS19-2004S1
 - Moons Nema 14 CSE14HRA1L410A
 - PT1000
