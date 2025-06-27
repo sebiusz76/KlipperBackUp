@@ -9,6 +9,7 @@
 - IDM Scanner V3.2 USB
 - StepperOnline Nema 17 17HS19-2004S1
 - Moons Nema 14 CSE14HRA1L410A
+- Mosquito Magnum
 - PT1000
 - Bed Heater 750W
 
