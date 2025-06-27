@@ -1,16 +1,15 @@
 # Voron 2.4 R2 - Klipper BackUp 💾
 ## My Voron 2.4 R2 350x350 Configuration
 
-- Octopus Pro V1.0.1
-- TMC2209
-- BigTreeTech EBB SB2209 USB V1.0
+- Octopus Pro V1.0.1 + TMC2209
+- Raspberry Pi 5 4GB
 - BigTreeTech HDMI7 V1.2
-- BigTreeTech Knomi V2.0
+- BigTreeTech EBB SB2209 USB V1.0
 - IDM Scanner V3.2 USB
-- StepperOnline Nema 17 17HS19-2004S1
-- Moons Nema 14 CSE14HRA1L410A
 - Mosquito Magnum
 - PT1000
+- StepperOnline Nema 17 17HS19-2004S1
+- Moons Nema 14 CSE14HRA1L410A
 - Bed Heater 750W
 
 
